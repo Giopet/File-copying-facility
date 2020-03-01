@@ -1,0 +1,13 @@
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\obj\Debug\DirectoryCopy.csprojAssemblyReference.cache
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\obj\Debug\DirectoryCopy.csproj.CoreCompileInputs.cache
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\bin\Debug\DirectoryCopy.dll.config
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\bin\Debug\DirectoryCopy.dll
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\bin\Debug\DirectoryCopy.pdb
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\obj\Debug\DirectoryCopy.dll
+C:\Users\gdpetas\source\repos\WindowsFormsApp1\DirectoryCopy\obj\Debug\DirectoryCopy.pdb
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\bin\Debug\DirectoryCopy.dll.config
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\bin\Debug\DirectoryCopy.dll
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\bin\Debug\DirectoryCopy.pdb
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\obj\Debug\DirectoryCopy.csproj.CoreCompileInputs.cache
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\obj\Debug\DirectoryCopy.dll
+C:\Users\gdpetas\source\repos\CopyDirectory\DirectoryCopy\obj\Debug\DirectoryCopy.pdb
